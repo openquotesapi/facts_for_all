@@ -17,6 +17,4 @@ Welcome to the Quotes and Facts API! This open-source API provides a vast collec
 
 - **Lightning Fast**: We understand the importance of performance. Our API is designed to be fast and reliable, ensuring a seamless user experience for your audience.
 
-## Documentation
 
-For detailed information on how to use the Quotes and Facts API, please refer to our [documentation](https://api.example.com/docs).
